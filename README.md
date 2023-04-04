@@ -1,3 +1,3 @@
-# My name is Cody Baldwin.
+# My name is Lin Liu.
 This is my first repository.
 
